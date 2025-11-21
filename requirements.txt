@@ -12,3 +12,4 @@ email-validator
 PyJWT
 pymysql
 python-jose[cryptography]
+aiohttp
