@@ -3,9 +3,9 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 
 # إعدادات الاتصال بقاعدة البيانات
 db_user = "root"
-db_pass = ""         # حط باسورد MySQL هنا لو فيه
-db_host = "127.0.0.1"
-db_name = "averos"
+db_pass = "7bfawuufiuxmbhhd"         # حط باسورد MySQL هنا لو فيه
+db_host = "vems-vems-wdjhw0"
+db_name = "mysql"
 
 # محرك قاعدة البيانات
 engine = create_engine(
