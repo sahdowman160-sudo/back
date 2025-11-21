@@ -5,8 +5,7 @@ pydantic
 python-multipart
 requests
 playwright
-bcrypt
-passlib
+passlib[argon2]
 jinja2
 email-validator
 PyJWT
