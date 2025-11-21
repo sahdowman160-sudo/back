@@ -11,4 +11,4 @@ jinja2
 email-validator
 PyJWT
 pymysql
-cryptography
+python-jose[cryptography]
