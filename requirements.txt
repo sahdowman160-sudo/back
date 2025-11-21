@@ -10,3 +10,4 @@ passlib
 jinja2
 email-validator
 PyJWT
+pymysql
